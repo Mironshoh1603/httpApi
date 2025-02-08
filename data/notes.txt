@@ -1,0 +1,4 @@
+1. JavaScript asoslari
+2. Node.js modullari
+3. Express.js framework
+4. MongoDB bilan ishlash	4. MongoDB bilan ishlash

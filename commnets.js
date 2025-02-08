@@ -24,4 +24,6 @@ let deleteComment = (req, res) => {
   res.write(JSON.stringify(comments));
   res.end();
 };
-module.exports = { getAllCommnets, deleteComment };
+
+let addData = (req, res) => {};
+module.exports = { getAllCommnets, deleteComment, addData };
